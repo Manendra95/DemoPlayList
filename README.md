@@ -1,4 +1,3 @@
-# DemoPlayList
 # DemoPlayList Java code
 Maven is a software project management and comprehension tool, so in other words it can be used to manage all software cycle. This software it helps me a lot in my works and personal projects and in this post I try to share some knownledge and information that I learned.
 
